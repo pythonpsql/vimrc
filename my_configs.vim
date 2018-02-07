@@ -2,7 +2,7 @@ syntax enable
 set background=dark
 colorscheme solarized
 set number
-map <Esc><Esc> :w<CR>
+map <Esc><Esc> ;w<CR>
 map <leader>/ :set hlsearch!<cr>
 
 set showcmd
